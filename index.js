@@ -33,10 +33,10 @@ async function main () {
   const repairKeys = Object.keys(repairMap)
   for (let i = 0; i < data.length; i++) {
     if (durability[data[i].name]) {
-      newData[i].durability = durability[data[i].name]
+      newData[i].maxDurability = durability[data[i].name]
     }
     if (categoryKeys.includes(data[i].name)) {
-      newData[i].categories = categoryMap[data[i].name]
+      newData[i].enchantCategories = categoryMap[data[i].name]
     }
     if (repairKeys.includes(data[i].name)) {
       newData[i].repairWith = repairMap[data[i].name]
