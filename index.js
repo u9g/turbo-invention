@@ -42,7 +42,7 @@ async function main () {
       newData[i].repairWith = repairMap[data[i].name]
     }
   }
-  fs.writeFile('newitems.json', JSON.stringify(newData, null, 2))
+  fs.writeFile('items.json', JSON.stringify(newData, null, 2))
   console.log('Done!')
 }
 
