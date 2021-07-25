@@ -35,31 +35,12 @@
       "netherite_boots"
     ],
     "armor_chest": [
-      "leather_helmet",
-      "chainmail_helmet",
-      "golden_helmet",
-      "iron_helmet",
-      "diamond_helmet",
-      "netherite_helmet",
       "leather_chestplate",
       "chainmail_chestplate",
       "golden_chestplate",
       "iron_chestplate",
       "diamond_chestplate",
-      "netherite_chestplate",
-      "leather_leggings",
-      "chainmail_leggings",
-      "golden_leggings",
-      "iron_leggings",
-      "diamond_leggings",
-      "netherite_leggings",
-      "leather_boots",
-      "chainmail_boots",
-      "golden_boots",
-      "iron_boots",
-      "diamond_boots",
-      "netherite_boots",
-      "turtle_helmet"
+      "netherite_chestplate"
     ],
     "armor_head": [
       "leather_helmet",
